@@ -32,6 +32,30 @@ models:
         required: true
         hidden: true
         default: home
+      - type: string
+        name: landing_template 1
+        label: Landing Template 1
+        required: true
+        hidden: true
+        default: home
+      - type: string
+        name: landing_template 2
+        label: Landing Template 2
+        required: true
+        hidden: true
+        default: home
+      - type: string
+        name: landing_template 3
+        label: Landing Template 3
+        required: true
+        hidden: true
+        default: home
+      - type: string
+        name: landing_template 4
+        label: Landing Template 4
+        required: true
+        hidden: true
+        default: home
       - type: enum
         name: palette
         label: Color Palette
