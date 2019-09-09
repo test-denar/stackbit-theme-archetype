@@ -519,6 +519,26 @@ models:
         const: features.html
   cta:
     type: object
+    label: CTA Section 1
+    extends:
+      - section
+  cta:
+    type: object
+    label: CTA Section 2
+    extends:
+      - section
+  cta:
+    type: object
+    label: CTA Section 3
+    extends:
+      - section
+  cta:
+    type: object
+    label: CTA Section 4
+    extends:
+      - section
+  cta:
+    type: object
     label: CTA Section
     extends:
       - section
