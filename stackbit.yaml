@@ -28,31 +28,31 @@ models:
     fields:
       - type: string
         name: landing_template
-        label: Landing Template
+        label: Landing Template 0
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template_1
-        label: Landing Template_1
+        name: landing_template
+        label: Landing Template 1
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template_2
-        label: Landing Template_2
+        name: landing_template
+        label: Landing Template 2
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template_3
-        label: Landing Template_3
+        name: landing_template
+        label: Landing Template 3
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template_4
-        label: Landing Template_4
+        name: landing_template
+        label: Landing Template 4
         required: true
         hidden: true
         default: home
