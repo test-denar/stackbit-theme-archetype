@@ -25,6 +25,7 @@ models:
   article:
     type: page # page models should always have "page" type
     label: Article
+    layout: home
     folder: articles # the folder where these markdown files are located
     match: 
       - "**/*" # match all files and subfolders in the articles folder
