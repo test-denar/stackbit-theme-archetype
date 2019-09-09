@@ -33,26 +33,26 @@ models:
         hidden: true
         default: home
       - type: string
-        name: landing_template 1
-        label: Landing Template 1
+        name: landing_template_1
+        label: Landing Template_1
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template 2
-        label: Landing Template 2
+        name: landing_template_2
+        label: Landing Template_2
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template 3
-        label: Landing Template 3
+        name: landing_template_3
+        label: Landing Template_3
         required: true
         hidden: true
         default: home
       - type: string
-        name: landing_template 4
-        label: Landing Template 4
+        name: landing_template_4
+        label: Landing Template_4
         required: true
         hidden: true
         default: home
